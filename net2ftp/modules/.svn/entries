@@ -1,0 +1,124 @@
+10
+
+dir
+81
+http://vietpopradio.unfuddle.com/svn/vietpopradio_vpr/trunk/net2ftp/modules
+http://vietpopradio.unfuddle.com/svn/vietpopradio_vpr
+
+
+
+2010-11-24T01:20:49.869830Z
+67
+lamlh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9934ecca-99a5-40a2-9efd-e0fc97f9032b
+
+admin
+dir
+
+admin_createtables
+dir
+
+admin_emptylogs
+dir
+
+admin_viewlogs
+dir
+
+advanced
+dir
+
+advanced_ftpserver
+dir
+
+advanced_parsing
+dir
+
+advanced_webserver
+dir
+
+bookmark
+dir
+
+browse
+dir
+
+calculatesize
+dir
+
+chmod
+dir
+
+clearcookies
+dir
+
+copymovedelete
+dir
+
+downloadfile
+dir
+
+downloadzip
+dir
+
+edit
+dir
+
+findstring
+dir
+
+followsymlink
+dir
+
+help
+dir
+
+install
+dir
+
+jupload
+dir
+
+login
+dir
+
+login_small
+dir
+
+logout
+dir
+
+newdir
+dir
+
+raw
+dir
+
+rename
+dir
+
+unzip
+dir
+
+upload
+dir
+
+view
+dir
+
+zip
+dir
+

@@ -1,0 +1,189 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   height: 100%;
+}
+
+body {
+   background-color: #BBD9EE;
+}
+
+h1, h2 {
+   font-family: Verdana, Tahoma, Arial, sans-serif;
+   margin: 0;
+}
+
+h1 {
+   padding: 2% 0 2% 2.5%;
+   font-size: 14px;
+   background-color: #206BA4;
+   color: #FFFFFF;
+}
+
+h2 {
+	padding: 1% 0 3% 2%;
+	margin: 0;
+	font-size: 12px;
+	background-color: #BBD9EE;
+	color: #504A4B;
+
+}
+
+div#stream-info {
+	display: block;
+	position: relative;
+	
+	padding: 2px 0 3px 1%;
+	overflow: auto;
+	width: 100%;
+	background-color: #FFFFFF;
+
+}
+
+div#message {
+   display: none;
+   position: absolute;
+   background-color: #206BA4;
+   color: #FFFFFF;
+   width: 80%;
+   padding: 2%;
+   font-family: Verdana, Tahoma, Arial, sans-serif;
+   font-size: 12px;
+}
+
+span.label, span.info {
+   font-family: Verdana, Tahoma, Arial, sans-serif;
+   font-size: 12px;
+   margin: 3px 0;
+}
+
+span.label {
+   display: block;
+   clear: left;
+   width: 15%;
+   _width: expression(document.body.clientWidth > 500 ? "100px" : "auto");
+   max-width: 100px;
+   padding-right: 1%;
+   float: left;
+   text-transform: uppercase;
+   font-weight: 700;
+   text-align: right;
+   color: #000000;
+}
+
+span.info {
+   display: block;
+   width: 79%;
+   float: left;
+   font-family: Verdana, Tahoma, Arial, sans-serif;
+   font-size: 12px;
+   color: #206BA4;
+}
+
+div#controls {
+	border-top: 2px solid #206BA4;
+	padding: 1.5% 0 0 2.5%;
+	background-color: #BBD9EE;
+
+
+   -moz-user-select: none;
+   -khtml-user-select: none;
+   user-select: none;
+}
+
+#playpause, #skip {
+   display: block;
+   float: left;
+   margin-right: 10px;
+   cursor: pointer;
+}
+
+div#song-status {
+   display: block;
+   float: left;
+   clear: right;
+   font-family: Verdana, Tahoma, Arial, sans-serif;
+   font-size: 12px;
+   font-weight: 700;
+   color: #206BA4;
+   margin-top: 14px;
+}
+
+span#volume-control {
+   display: block;
+   float: left;
+   height: 20px;
+   margin: 10px 20px 0 10px;
+   cursor: pointer;
+}
+
+#audio-icon {
+   display: block;
+   float: left;
+   margin-right: 4px;
+}
+
+span.volume-bar {
+   display: block;
+   float: left;
+   width: 6px;
+   margin-right: 2px;
+   background-color: #FFFFFF;
+   position: relative;
+   font-size: 1px;
+}
+
+span.volume-active {
+   background-color: #206BA4;
+}
+
+span#vol-1  { height: 2px; margin-top: 18px; }
+span#vol-2  { height: 4px; margin-top: 16px; }
+span#vol-3  { height: 6px; margin-top: 14px; }
+span#vol-4  { height: 8px; margin-top: 12px; }
+span#vol-5  { height: 10px; margin-top: 10px; }
+span#vol-6  { height: 12px; margin-top: 8px; }
+span#vol-7  { height: 14px; margin-top: 6px; }
+span#vol-8  { height: 16px; margin-top: 4px; }
+span#vol-9  { height: 18px; margin-top: 2px; }
+span#vol-10 { height: 20px; }
+
+#button, #button-down, #button-disabled {
+   display: none;
+}
+
+#button {
+   background-color: #206BA4;
+   color: #FFFFFF;
+}
+
+#button-down {
+   background-color: #BBD9EE;
+   color: #FFFFFF;
+}
+
+#button-disabled {
+   background-color: #999999;
+   color: #FFFFFF;
+}
+.ads {
+
+   padding: 2% 0 2% 2%;
+   margin: 0;
+}
+
+.subFont
+{
+	padding: 3px 3px 0 0;
+  	font-size: 14px;
+   	float:right;
+   	color: black;
+}
+
+.subFont2
+{
+	padding: 0px 2px 0 0;
+  	font-size: 12px;
+   	float:right;
+   	color: #282828;
+}

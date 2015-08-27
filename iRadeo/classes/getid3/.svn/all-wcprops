@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3
+END
+module.archive.tar.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.archive.tar.php
+END
+module.audio.ac3.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.ac3.php
+END
+module.audio-video.matroska.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.matroska.php
+END
+getid3.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/getid3.lib.php
+END
+module.audio.midi.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.midi.php
+END
+module.graphic.gif.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.gif.php
+END
+module.archive.szip.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.archive.szip.php
+END
+module.graphic.bmp.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.bmp.php
+END
+module.graphic.tiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.tiff.php
+END
+module.audio.lpac.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.lpac.php
+END
+module.audio.flac.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.flac.php
+END
+module.audio.avr.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.avr.php
+END
+module.audio-video.flv.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.flv.php
+END
+module.misc.iso.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.misc.iso.php
+END
+module.audio.mpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.mpc.php
+END
+module.audio.tta.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.tta.php
+END
+extension.cache.mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/extension.cache.mysql.php
+END
+module.audio.rkau.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.rkau.php
+END
+module.audio-video.asf.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.asf.php
+END
+module.archive.gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.archive.gzip.php
+END
+module.graphic.pcd.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.pcd.php
+END
+module.audio-video.real.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.real.php
+END
+module.audio.shorten.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.shorten.php
+END
+write.real.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.real.php
+END
+module.audio.au.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.au.php
+END
+module.audio-video.quicktime.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.quicktime.php
+END
+module.audio.la.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.la.php
+END
+module.misc.exe.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.misc.exe.php
+END
+extension.cache.dbm.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/extension.cache.dbm.php
+END
+module.audio.mp3.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.mp3.php
+END
+module.audio-video.swf.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.swf.php
+END
+module.graphic.jpg.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.jpg.php
+END
+module.tag.apetag.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.tag.apetag.php
+END
+module.graphic.svg.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.svg.php
+END
+write.metaflac.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.metaflac.php
+END
+write.vorbiscomment.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.vorbiscomment.php
+END
+module.tag.id3v1.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.tag.id3v1.php
+END
+module.tag.id3v2.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.tag.id3v2.php
+END
+write.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.php
+END
+module.audio.optimfrog.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.optimfrog.php
+END
+module.graphic.png.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.graphic.png.php
+END
+getid3.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/getid3.php
+END
+module.audio-video.riff.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.riff.php
+END
+module.audio.bonk.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.bonk.php
+END
+write.id3v1.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.id3v1.php
+END
+module.audio-video.nsv.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.nsv.php
+END
+write.id3v2.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.id3v2.php
+END
+module.audio.mod.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.mod.php
+END
+module.audio.aac.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.aac.php
+END
+module.tag.lyrics3.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.tag.lyrics3.php
+END
+module.audio.wavpack.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.wavpack.php
+END
+module.audio.monkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.monkey.php
+END
+module.audio-video.bink.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.bink.php
+END
+module.audio.voc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.voc.php
+END
+write.lyrics3.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.lyrics3.php
+END
+module.audio-video.mpeg.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio-video.mpeg.php
+END
+module.audio.vqf.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.vqf.php
+END
+write.apetag.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/write.apetag.php
+END
+module.archive.zip.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.archive.zip.php
+END
+module.audio.ogg.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.audio.ogg.php
+END
+module.archive.rar.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vietpopradio_vpr/!svn/ver/26/trunk/iRadeo/classes/getid3/module.archive.rar.php
+END

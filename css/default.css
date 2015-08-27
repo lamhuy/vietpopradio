@@ -1,0 +1,464 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+#wrapper
+{
+	
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+body {
+	
+	margin: 20px 0;
+	width: 100%;
+	background: #FFFFFF url(../images/music_background_ripped.jpg) no-repeat   ;
+	font: normal small Arial, Helvetica, sans-serif;
+	color:#41383C;
+	
+}
+
+
+h1, h2, h3 {
+	color: #000000;
+}
+
+h2 {
+}
+
+h3 {
+}
+
+p, blockquote, ul, ol {
+}
+
+p {
+}
+
+blockquote {
+	margin-left: 2em;
+	padding-left: 1em;
+	border-left: 1px solid #EEEEEE;
+}
+
+ul {
+	margin-left: 3em;
+}
+
+ul li {
+}
+
+ol {
+	margin-left: 3em;
+}
+
+ol li {
+}
+
+a {
+	color: #0072BC;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #59C700;
+}
+
+img {
+	border: none;
+}
+
+/* Boxed Style */
+
+.boxed {
+}
+
+.boxed .title {
+	height: 23px;
+	padding: 15px 0 0 19px;
+	background: #8CBEF5 url(../images/img03.gif) repeat-x left bottom;
+	border: 1px solid #4F9CEF;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+
+
+.boxed_right {
+}
+
+.boxed_right .title {
+	height: 23px;
+
+	padding: 15px 0 0 19px;
+	background: #8CBEF5 url(../images/img03_green.gif) repeat-x left bottom;
+	border: 1px solid #4AA02C;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+ 
+
+.fans_content {
+	margin: 0 0 20px 0;
+	background: #DBFFD8;
+}
+
+/* Post */
+
+.post {
+	padding: 20px 20px 0 20px;
+}
+
+.post .title {
+	margin-bottom: 0px;
+	padding: 3px 0 15px 0;
+	background: url(../images/img04.gif) repeat-x left bottom;
+}
+
+.post .date {
+	float: left;
+	width: 90px;
+	padding-left: 20px;
+	font-size: x-small;
+}
+
+.post .date .month {
+}
+
+.post .date .day {
+}
+
+.post .date .year {
+}
+
+.post .meta {
+	float: left;
+	margin-bottom: 10px;
+	padding-left: 20px;
+	border-left: 1px solid #EEEEEE;
+	font-size: x-small;
+}
+
+.post .meta p {
+}
+
+.post .content_page {
+	clear: both;
+	padding: 20px;
+	border-top: 1px solid #EEEEEE;
+}
+
+.post .content_page p, .post .content_page blockquote, .post .content_page ul, .post .content_page ol {
+	margin-bottom: 1.5em;
+	line-height: 180%;
+}
+
+/* Header */
+
+#header {
+	width: 1000px;
+	height: 200px;
+	margin-left: 120px;
+	
+}
+
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 250px;
+	height: 200px;
+	background: url(../images/img01.jpg) no-repeat;
+}
+
+#logo h1 {
+	padding: 140px 0 0 20px;
+	font-size: 2em;
+}
+
+#logo h2 {
+	padding: 0 0 0 20px;
+	font-size: 1em;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+/* Splash */
+
+#splash {
+	float: left;
+	width: 640px;
+	height: 200px;
+}
+
+/* Content */
+
+#content {
+	width: 1120px;
+	margin-left: 120px;
+
+	min-height: 1250px;
+	
+}
+
+#extra {
+}
+
+/* Content > Main */
+
+#main {
+	float: left;
+	width: 520px;
+	
+}
+
+#main a {
+
+}
+
+/* Content > Main > Welcome */
+
+#welcome {
+	width: 480px;
+	padding-left: 20px;
+	
+}
+
+/* Content > Main > Example */
+
+
+
+#page {
+	
+}
+
+/* Content > Sidebar */
+
+#sidebar {
+	float: left;
+	width: 250px;
+}
+
+
+#right_sidebar {
+	float: left;
+	width: 250px;
+	
+	
+}
+
+
+#sidebar a {
+}
+
+/* Content > Sidebar > Login */
+
+#fans {
+}
+
+#fans form {
+}
+
+#fans fieldset {
+	border: none;
+}
+
+#fans legend {
+	display: none;
+}
+
+#fans label {
+	font-size: x-small;
+	font-weight: bold;
+}
+
+#fans input {
+	margin-bottom: 5px;
+	padding: 2px 5px;
+	border: 1px solid #385B88;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#inputtext1, #inputtext2 {
+	width: 185px;
+	color: #385B88;
+}
+
+#inputsubmit1 {
+	background: #4F9CEF url(../images/img03.gif) repeat-x left bottom;
+	color: #FFFFFF;
+}
+
+/* Content > Sidebar > Menu */
+
+#menu {
+	padding: 20px 0;
+}
+
+#menu ul {
+	margin: 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	padding: 7px 20px;
+	border-top: 1px solid #EEEEEE;
+	text-decoration: none;
+	font-weight: bold;
+	color: #666666;
+}
+
+#menu a:hover {
+	background: #DCEBFC;
+	color: #000000;
+}
+
+#menu .active
+{
+	background: #D1F0A6;
+	color: #000000
+}
+#menu .active a
+{
+	background: #D1F0A6;
+	color: #000000
+}
+#menu .inactive
+{
+	background: #FFFFFF;
+	color: #666666;
+}
+
+.pageTitle
+{
+	font-family: comic sans MS, new york, times;
+	
+	padding-left:5px;
+	padding-bottom:8px;
+	padding-top:5px;
+	color: #303030 ;
+}
+
+#menu .first a {
+	border: none;
+}
+
+
+/* Content > Sidebar > Updates */
+
+#updates {
+}
+
+#updates ul {
+	margin: 0;
+	list-style: none;
+}
+
+#updates h3 {
+	margin: 0;
+	font-size: x-small;
+}
+
+#updates p {
+	margin-bottom: 1.4em;
+	font-size: smaller;
+	line-height: normal;
+}
+
+/* Advertise Bar */
+#adbar {
+	clear: both;
+	width: 1000px;
+	margin: 0 ;
+	position: absolute; 
+	bottom: 10px;
+	
+	padding: 0px 0px;
+
+}
+
+.ad_div {
+	border: 1px solid #909090 ;
+	padding:0;
+}
+
+/* Footer */
+
+#footer {
+	clear: both;
+
+	position: absolute;
+	width:1150px;
+	margin-left: 80px;
+	text-align: right;
+}
+
+#center_ads {
+	margin-left: 20px;	
+}
+
+#right_ads {
+	
+	padding: 5px 5px 5px 0px;
+}
+
+#left_ads {
+	
+	padding: 5px 2px 10px 0px;
+}
+
+#bottom_ad {
+	padding: 5px 5px 5px 275px;
+
+
+}
+
+#footer p {
+	margin: 0;
+	
+	padding: 10px 0px;
+	text-align: right;
+	font-size: x-small;
+	color: #999999;
+	
+}
+
+#footer a {
+	color: #5C991F;
+	padding-right: 10px;
+	
+	padding-top:4px;
+}
+
+
+/* Footer > Legal */
+
+#legal {
+}
+
+/* Footer > Links */
+
+#links {
+}
+
+
+
+

@@ -1,0 +1,46 @@
+<?php
+//(c) iRadeo.com
+
+
+// Your Player Title
+
+$title = 'Vi&#7879;t Pop Radio';
+
+// Label Display Feature
+
+
+    $labels = array(
+    'song' => 'Song',
+    'artist' => 'Artist',
+    'album' => 'Album'
+
+);
+
+//  Absolute path or full path to your mp3 folder.(eg: /absolute-path/mp3s/)
+
+
+//$mp3_dir = '/home/vietpopr/public_html/Music/';
+$mp3_dir = 'Music/';
+
+// Public address for your audio folder.
+
+$http_path = 'http://localhost/iRadeo/Music/';
+
+// Shuffle Mode Feature
+
+$shuffle = false;
+
+//  Skip Feature
+
+$skip_limit = 1;
+
+//  File Type Supported
+//  DO NOT EDIT
+
+$playable = array('mp3', 'wav');
+
+// Auto Play Feature
+
+$auto_play = true;
+
+?>
