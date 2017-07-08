@@ -296,36 +296,6 @@ Player.prototype = {
 
 var player = new Player([
 { 
-	 title: '--- VietPopWelcomeVietnamese.mp3', 
-	 file: '--- VietPopWelcomeVietnamese.mp3', 
-	 howl: null 
-},
-{ 
-	 title: '---- VietPopWelcomEnglish ---.mp3', 
-	 file: '---- VietPopWelcomEnglish ---.mp3', 
-	 howl: null 
-},
-{ 
-	 title: '---- VietPopWelcomEnglish.mp3', 
-	 file: '---- VietPopWelcomEnglish.mp3', 
-	 howl: null 
-},
-{ 
-	 title: '---- VietPopWelcomEnglish.wav', 
-	 file: '---- VietPopWelcomEnglish.wav', 
-	 howl: null 
-},
-{ 
-	 title: '---- VietPopWelcomeVietnamese ---.mp3', 
-	 file: '---- VietPopWelcomeVietnamese ---.mp3', 
-	 howl: null 
-},
-{ 
-	 title: '---- VietPopWelcomeVietnamese.mp3', 
-	 file: '---- VietPopWelcomeVietnamese.mp3', 
-	 howl: null 
-},
-{ 
 	 title: 'Da Mat Em Roi - Andy Quach.mp3', 
 	 file: 'Andy Quach/Da Mat Em Roi - Andy Quach.mp3', 
 	 howl: null 
