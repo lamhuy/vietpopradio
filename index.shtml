@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml"	
 	 xmlns:fb="http://ogp.me/ns/fb#"	>
 	
@@ -146,7 +146,12 @@ google_ad_height = 55;
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-<!--  div id="fb-root"></div -->
+<!-- <
+
+
+bad facebook code to remove 
+
+div id="fb-root"></div> -->
 
 <script type="text/javascript">
 	window.fbAsyncInit = function() {
@@ -165,7 +170,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 		e.src = document.location.protocol
 				+ '//connect.facebook.net/en_US/all.js#appId=6842db91cc80713aa186f0bc64e9d06a&amp;xfbml=1';
 		e.async = true;
-		document.getElementById('fb-root').appendChild(e);
+		//document.getElementById('fb-root').appendChild(e);
 	}());
 </script>
 

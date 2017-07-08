@@ -48,7 +48,7 @@ function init()
 	makeActive('home');
 	//loadAds('/javascript/showLeftAd.js','left_ads');
 	ajaxpage('home.html','main_content');
-	suggestModal = new suggestPopUp();
+	//suggestModal = new suggestPopUp();
 	setFooter();
 
 }
