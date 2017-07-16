@@ -197,7 +197,7 @@ Your browser AJAX is not working. Click on home menu on left panel.</center></di
 
 </div>
 <!-- bottom_ad -->
-<div id="footer"><!--#include file="includes/footer.html" --></div>
+<!-- <div id="footer">#include file="includes/footer.html"</div> -->
 <!--footer -->
 
 </body>
